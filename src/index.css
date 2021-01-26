@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  color: red;
+}
+
+a {
+  color: blue;
+}
+
+
+
+
+* {
+  text-align: center;
+  line-height: 25px;
+}
